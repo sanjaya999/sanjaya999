@@ -17,5 +17,4 @@
 ### 📈 GitHub Stats
 ![Sanjaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjaya999&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-<!-- Optional visitor badge -->
-<!-- ![Visitors](https://komarev.com/ghpvc/?username=sanjaya999&label=Profile%20views&color=0e75b6&style=flat) -->
+![Visitors](https://komarev.com/ghpvc/?username=sanjaya999&label=Profile%20views&color=0e75b6&style=flat)
