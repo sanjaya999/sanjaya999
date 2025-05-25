@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Sanjaya
+### Sup?  I'm Sanjaya
 
 - 🔍 Currently exploring and building cool things in web and mobile.
 - 📱 Creator & maintainer of **EasyFTP** – a lightweight FTP server for Android.
