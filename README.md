@@ -1,6 +1,5 @@
-### Sup?  I'm Sanjaya
+###  I'm Sanjaya
 
-- 🔍 Currently exploring and building cool things in web and mobile.
 - 📱 Creator & maintainer of **EasyFTP** – a lightweight FTP server for Android.
 - 🌐 Working with **Spring**, **Node.js**, **React**, and **Django**.
 
